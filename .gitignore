@@ -1,0 +1,5 @@
+# JANGAN commit private key asli!
+keys/private_key.pem
+DEMO_private_key.pem
+storage/sessions/*
+!storage/sessions/.gitkeep

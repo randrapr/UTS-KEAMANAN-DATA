@@ -1,0 +1,5 @@
+# Jika folder proyek ditaruh di htdocs XAMPP tanpa mengubah DocumentRoot,
+# arahkan semua permintaan ke folder public/. (Cara terbaik: DocumentRoot = public/)
+RewriteEngine On
+RewriteRule ^$ public/ [L]
+RewriteRule (.*) public/$1 [L]

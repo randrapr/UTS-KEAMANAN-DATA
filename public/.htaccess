@@ -1,0 +1,5 @@
+# Apache / XAMPP: arahkan semua permintaan (selain berkas nyata) ke index.php
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^ - [L]
+RewriteRule ^ index.php [L]

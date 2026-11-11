@@ -1,0 +1,22 @@
+test_01_enkripsi_dekripsi_roundtrip ... ok
+test_02_nonce_acak_ciphertext_berbeda ... ok
+test_03_kunci_salah_gagal ... ok
+test_04_tamper_dan_aad_terdeteksi ... ok
+test_05_loadPrivateKey_menolak_input_berbahaya ... ok
+test_06_landing_admin_terlindungi_dan_alias_login ... ok
+test_07_login_private_key_salah_ditolak ... ok
+test_08_csrf_wajib ... ok
+test_09_booking_publik_tersimpan_terenkripsi ... ok
+test_10_alur_admin_dekripsi_terima_booking_dan_pembayaran ... ok
+test_11_private_key_tidak_tersimpan_plaintext_di_disk ... ok
+test_12_logout_menghapus_akses ... ok
+test_13_cookie_kunci_wajib_untuk_buka_sesi ... ok
+test_14_kamar_terisi_tidak_bisa_dipakai_dua_kali_atau_dihapus ... ok
+test_15_data_rusak_ditandai_gagal_dekripsi ... ok
+test_16_database_belum_dibuat_tampil_pesan_ramah ... ok
+test_17_batas_percobaan_login_gagal ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests
+
+OK

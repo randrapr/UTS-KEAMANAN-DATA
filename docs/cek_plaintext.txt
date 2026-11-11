@@ -1,0 +1,9 @@
+Pencarian plaintext pada file kosan.db (byte mentah):
+  'Rizky Pratama': tidak ditemukan
+  'Anisa Putri': tidak ditemukan
+  '3201010101010001': tidak ditemukan
+  '0812-5550': tidak ditemukan
+  'Deluxe': tidak ditemukan
+  'Transfer': tidak ditemukan
+  'Fajar Nugroho': tidak ditemukan
+Ukuran file DB: 49152 byte

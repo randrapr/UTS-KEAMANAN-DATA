@@ -1,0 +1,39 @@
+[booking #1]
+  DB (terenkripsi): v1.NNqOYfl7He6YNJp2v_UGbUxayed11d-1Th0Er_tXHeP7NTgqrG8RK-pzKne6Mbhll8BgZQl1U8pJfrFw88b0is9IXnZc0VrpFTx9K-Xks3w...
+  panjang blob    : 764 karakter
+  Dekripsi        : {"nama":"Fajar Nugroho","hp":"0812-5550-0010","tipe":"Deluxe","tgl_masuk":"2026-11-21","pesan":"Ingin kamar lantai 2 bila ada.","tanggal":"2026-11-11 07:52"}
+
+[booking #2]
+  DB (terenkripsi): v1.EfwaIE0hW7vvTreRfp1os_v-Xby6JYk5O7l13WfGn6a9KUDVhpywkib8jX6QJoghUpSqIEvkaQoNC9Z0RJGmUq8_sdTuChb2otaWCLpiQ9o...
+  panjang blob    : 767 karakter
+  Dekripsi        : {"nama":"Lia Kusuma","hp":"0812-5550-0011","tipe":"Standar","tgl_masuk":"2026-12-01","pesan":"Apakah boleh membawa kulkas kecil?","tanggal":"2026-11-11 07:52"}
+
+[penghuni #1]
+  DB (terenkripsi): v1.cj4CgUcQFFR1jyoU4zTVyEnJVFE8RF860QesTa0sLhAoOxm5JUXrn-MyUPo1JhS0vqyJDnSz0yxeXcOScRppgXPBGFu5edweMnNRX6j3ItV...
+  panjang blob    : 821 karakter
+  Dekripsi        : {"nama":"Rizky Pratama","hp":"0812-5550-0001","ktp":"3201010101010001","darurat_nama":"Hendra Pratama","darurat_hp":"0813-5550-1001","kamar_id":1,"tgl_masuk":"2026-01-05","tanggal":"2026-01-05 09:00"}
+
+[penghuni #2]
+  DB (terenkripsi): v1.FInoBUWRxV1EVK6rPPLo0ftym3t1kJr5s2sqdktXJNDKFhAN4xjZoJIfQEOUt5zR19tWzX3zptWwg_a_w7U3JxM4SDvGT96Z40QGaPnzzKm...
+  panjang blob    : 815 karakter
+  Dekripsi        : {"nama":"Anisa Putri","hp":"0812-5550-0002","ktp":"3201010101010002","darurat_nama":"Sri Wahyuni","darurat_hp":"0813-5550-1002","kamar_id":4,"tgl_masuk":"2026-03-01","tanggal":"2026-03-01 09:00"}
+
+[kamar #1]
+  DB (terenkripsi): v1.hTNg-XtwcNLcuybU_1522Cp4EewW3QpoRG4kOGtjFhjpZltCgqEif1zuEESfjeG1XSoGFzLi4A_qVdJa00ckvmHSvfcesmAHCPovRukCLLc...
+  panjang blob    : 628 karakter
+  Dekripsi        : {"nomor":"A1","tipe":"Standar","lantai":1,"catatan":""}
+
+[kamar #2]
+  DB (terenkripsi): v1.Dcp3ogyz8kLBZ1-0Fj9BIjnA627eycbsCN36-CKLk8BmIk8IDEaeRylbGlqpoQsKvtOMxWGkg0189lr0R1oRifAK984lboo2bJdKN4cKCHK...
+  panjang blob    : 628 karakter
+  Dekripsi        : {"nomor":"A2","tipe":"Standar","lantai":1,"catatan":""}
+
+[pembayaran #1]
+  DB (terenkripsi): v1.O5bpc1DW8UA7klduXwR9T2-gsn0ZZlgPRBdYh3pKo4lFZ4wVsMZEkeAyPOsudEqqGVzN2aviOUa5RwB-f9dCmkUc9vb0OT1eHoV_9F_1v9r...
+  panjang blob    : 708 karakter
+  Dekripsi        : {"penghuni_id":1,"periode":"2026-10","jumlah":850000,"metode":"Transfer","catatan":"","tanggal":"2026-10-02 10:00"}
+
+[pembayaran #2]
+  DB (terenkripsi): v1.O-bTzOG3dZzDPwUfJdbID9vtixlvBF8XjOlpUGgfv9D09UggZ8hqsTdNUgKINpI_fJil8WBVAd16juxX5WnVkZcQaY9d8Y4hIwkh7o9eqp-...
+  panjang blob    : 708 karakter
+  Dekripsi        : {"penghuni_id":1,"periode":"2026-11","jumlah":850000,"metode":"Transfer","catatan":"","tanggal":"2026-11-02 10:00"}
